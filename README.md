@@ -8,7 +8,7 @@
 3. Then go to the vs code and copy the folder structure 
 4. then copy the own forked project repo link -- ``` git clone https://github.com/your-username/project-name.git ```
 5. After copy the file structure go to the terminal
-6. And upstream the main project repo link -- git remote add upstream https://github.com/friend-username/project-name.git
+6. And upstream the main project repo link -- ``` git remote add upstream https://github.com/friend-username/project-name.git ```
 7. git add .
 git commit -m "Added a new feature"
 git push origin main
