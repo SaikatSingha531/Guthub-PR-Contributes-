@@ -14,7 +14,7 @@ git commit -m "Added a new feature"
 git push origin main
 
 
-**After you completed this main pr section here (Like project Owner) **
+## 📌**After you completed this main pr section here (Like project Owner) **
 
 Go to pull-requests in GitHub main project 
 Then click on the new pull request
