@@ -16,11 +16,11 @@ git push origin main
 
 ## 📌**After you completed this main pr section here (Like project Owner) **
 
-Go to pull-requests in GitHub main project 
-Then click on the new pull request
-After that you will see "compare across forks" option Then click the option
-Then you see the compare repo and select the repo that want to add on main 
-Then click on create pull request 
-Then you can see the open pull request page 
-Then click on the create pull request option 
-Then click on the marge pull request option and click on Confirm marge 
+1. Go to pull-requests in GitHub main project 
+2. Then click on the new pull request
+3. After that you will see "compare across forks" option Then click the option
+4. Then you see the compare repo and select the repo that want to add on main 
+5. Then click on create pull request 
+6. Then you can see the open pull request page 
+7. Then click on the create pull request option 
+8. Then click on the marge pull request option and click on Confirm marge 
