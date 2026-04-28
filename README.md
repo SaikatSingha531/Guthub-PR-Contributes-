@@ -14,6 +14,12 @@
 9. ```git push origin main```
 
 
+
+## 📌 After code changes changed file update on system 
+
+1. After We work and do changes all of the code run ```git pull origin main``` to update the code on vs code 
+
+
 ## 📌**After you completed this main pr section here (Like project Owner) **
 
 1. Go to pull-requests in GitHub main project 
