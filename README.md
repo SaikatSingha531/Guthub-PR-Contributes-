@@ -17,7 +17,8 @@
 
 ## 📌 After code changes changed file update on system 
 
-1. After We work and do changes all of the code run ```git pull origin main``` to update the code on vs code 
+1. After We work and do changes all of the code run ```git pull origin main``` to update the code on vs code
+2. ```git fetch origin main``` If we use this then Downloads latest changes but does not merge.
 
 
 ## 📌**After you completed this main pr section here (Like project Owner) **
